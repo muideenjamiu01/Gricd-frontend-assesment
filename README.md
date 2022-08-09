@@ -15,7 +15,7 @@
 10. 
 11. when user refresh the page the cart items still maintained its position
 12. 
-13.to get the current user LOCATION: click on the white circle beside the office
+13.to get the current user LOCATION: click on the white circle beside the input field or type your address
 
 
 ## Build Setup
