@@ -38,6 +38,7 @@ export default {
 
   // Auto import components: https://go.nuxtjs.dev/config-components
   components: true,
+  target: 'static',
   ssr: false,
 
   // Modules for dev and build (recommended): https://go.nuxtjs.dev/config-modules
@@ -51,6 +52,9 @@ export default {
 
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [],
+  generate: {
+    fallback: true,
+  },
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {

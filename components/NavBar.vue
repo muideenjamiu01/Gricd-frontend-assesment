@@ -67,7 +67,7 @@ export default {
 <style>
 .header {
   position: fixed; /* fixing the position takes it out of html flow - knows
-                   nothing about where to locate itself except by browser
+                nothing about where to locate itself except by browser
                    coordinates */
   left: 0; /* top left corner should start at leftmost spot */
   top: 0; /* top left corner should start at topmost spot */
