@@ -1,12 +1,21 @@
 # Gricd-assesment
 1.first-page :showing a home page of products
+
 2.add to cart with the add to cart buttton
+
 3.click on the cart icon to go to the list of cart items added page and checkoutpage
+
 4. user can add quantity of the product, delete the product from the cart
-5.click on the GRICD logo to navigate back to home page
-5. click on userLocation to veiw current user location
-5. when user click on checkout button cart would be cleared and navigate back to he homepage
-6. when user refresh the page the cart items still maintained its position
+5. 
+6.click on the GRICD logo to navigate back to home page
+
+7. click on userLocation to veiw current user location
+8. 
+9. when user click on checkout button cart would be cleared and navigate back to he homepage
+10. 
+11. when user refresh the page the cart items still maintained its position
+12. 
+13.to get the current user LOCATION: click on the white circle beside the office
 
 
 ## Build Setup
